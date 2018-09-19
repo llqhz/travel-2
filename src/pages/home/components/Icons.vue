@@ -118,22 +118,25 @@ export default {
     margin: 0;
 
     display: flex;
+    flex-flow: row wrap;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     align-content: flex-start;
 
     flex-wrap: wrap;
   }
   .icon img {
-    width: 80%;
+    margin-top: 10%;
+    width: 60%;
+    display: block;
   }
   .icon p {
     width: 100%;
     text-align: center;
 
     margin: 0;
-    margin-top: .05rem;
     color: #212121;
+    font-size: .25rem;
 
     /* 单行文本 多余字省略号 */
     overflow: hidden;
