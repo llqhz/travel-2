@@ -56,7 +56,7 @@ export default {
           id: 8,
           title: '武汉欢乐谷',
           src: 'http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png'
-        },/*
+        },
         {
           id: 9,
           title: '水上玩乐',
@@ -66,7 +66,7 @@ export default {
           id: 10,
           title: '全部玩乐',
           src: 'http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png'
-        } */
+        }
 
       ]
     }
