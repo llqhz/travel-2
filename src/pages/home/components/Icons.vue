@@ -96,6 +96,10 @@ export default {
     overflow: hidden;
     background-color: #fff;
   }
+  .icons {
+    margin-top: .2rem;
+    margin-bottom: .2rem;
+  }
   .icons >>> .swiper-slide {
     display: flex;
     flex-direction: row;
