@@ -56,7 +56,7 @@ export default {
           id: 8,
           title: '武汉欢乐谷',
           src: 'http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png'
-        },
+        },/*
         {
           id: 9,
           title: '水上玩乐',
@@ -66,7 +66,7 @@ export default {
           id: 10,
           title: '全部玩乐',
           src: 'http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png'
-        }
+        } */
 
       ]
     }
@@ -114,22 +114,25 @@ export default {
     margin: 0;
 
     display: flex;
+    flex-flow: row wrap;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     align-content: flex-start;
 
     flex-wrap: wrap;
   }
   .icon img {
-    width: 80%;
+    margin-top: 10%;
+    width: 60%;
+    display: block;
   }
   .icon p {
     width: 100%;
     text-align: center;
 
     margin: 0;
-    margin-top: .05rem;
     color: #212121;
+    font-size: .25rem;
 
     /* 单行文本 多余字省略号 */
     overflow: hidden;
