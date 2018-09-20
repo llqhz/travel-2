@@ -4,7 +4,7 @@
     <ul>
       <li class="item">
         <div class="item-img-wraper">
-          <img src="http://img1.qunarzz.com/sight/p0/1705/99/99cad7081abb9771a3.img.jpg_200x200_d86753f0.jpg" class="item-img">
+          <img src="http://img1.qunarzz.com/sight/p0/1705/99/99cad7081abb9771a3.img.jpg_200x200_d86753f0.jpg" class="item-img" />
         </div>
         <div class="info">
           <p class="item-title">武汉九峰森林动物园</p>
@@ -21,7 +21,7 @@
       </li>
       <li class="item">
         <div class="item-img-wraper">
-          <img src="http://img1.qunarzz.com/sight/p0/1705/99/99cad7081abb9771a3.img.jpg_200x200_d86753f0.jpg" class="item-img">
+          <img src="http://img1.qunarzz.com/sight/p0/1705/99/99cad7081abb9771a3.img.jpg_200x200_d86753f0.jpg" class="item-img" />
         </div>
         <div class="info">
           <p class="item-title">武汉九峰森林动物园</p>
@@ -38,7 +38,7 @@
       </li>
       <li class="item">
         <div class="item-img-wraper">
-          <img src="http://img1.qunarzz.com/sight/p0/1705/99/99cad7081abb9771a3.img.jpg_200x200_d86753f0.jpg" class="item-img">
+          <img src="http://img1.qunarzz.com/sight/p0/1705/99/99cad7081abb9771a3.img.jpg_200x200_d86753f0.jpg" class="item-img" />
         </div>
         <div class="info">
           <p class="item-title">武汉九峰森林动物园</p>
