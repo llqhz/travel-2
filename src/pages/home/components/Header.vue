@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  name: 'HomeHeader'
+  name: 'HomeHeader',
 }
 </script>
 
@@ -54,5 +54,4 @@ export default {
 
     padding-left: .2rem;
   }
-
 </style>
